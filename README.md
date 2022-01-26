@@ -1,6 +1,6 @@
 # hello-world-2
-tentando dnv pra ver se aprendi o primeiro
-me chamo eduardo 
-quero aprender a manusear o github
+tentando dnv pra ver se aprendi o primeiro tutorial
+me chamo yugu 
+quero aprender a usar o github
 e tornar uma feramenta util
-pra minha carreira
+para utilizar durante minha vida
